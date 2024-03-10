@@ -62,7 +62,7 @@ const NavBar = () => {
           SheepCloud
           {/* {console.log("********** in Navbar.js conditioning **************")} */}
         </Link>
-        <ul id="nav-mobile" className="right ">
+        <ul id="nav-mobile" className="right">
           {renderList()}
         </ul>
       </div>
